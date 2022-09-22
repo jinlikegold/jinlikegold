@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jin (he/him)
-- 👀 I’m interested in web development from a multipotentialite perspective (with a background in design, entrepreneurship, and systems thinking)
-- 🌱 I’m currently learning Javascript, debugging, and how to improve my overall skills as a front end web developer through Scrimba & other resources!
-- 💞️ I’m open to junior FE positions & apprenticeships, and looking to collaborate on co-creating functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
+- 👀 Interested in web development from a multipotentialite perspective (with a background in design, entrepreneurship, and systems thinking)
+- 🌱 Currently learning Javascript, debugging, and how to improve my overall skills as a front end web developer through Scrimba & other resources!
+- 💞️ Open to junior FE positions & apprenticeships, and looking to collaborate on co-creating functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
 - 📫 How to reach me:
 - My Github: @jinlikegold
 - My LinkedIn: https://www.linkedin.com/in/jinlikegold/
