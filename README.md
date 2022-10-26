@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jin (he/him)
+- 👋 Hi, I’m Jin (he/him). I'm currently doing an internship in front end web development with a local organization called You Belong Here, working within Squarespace. I'm learning a TON about problem solving as I bring the client's designs to life within this very challenging and specific CMS. Mpre soon!
 - 👀 Interested in web development from a multipotentialite perspective (with a background in design, entrepreneurship, and systems thinking)
 - 🌱 Currently learning Javascript, debugging, and how to improve my overall skills as a front end web developer through Scrimba & other resources!
 - 💞️ Open to junior FE positions & apprenticeships, and looking to collaborate on co-creating functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
