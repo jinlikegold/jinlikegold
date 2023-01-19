@@ -2,7 +2,8 @@
 - 👀 Interested in front end development from a multipotentialite perspective (with a background in design, entrepreneurship, and systems thinking)
 - 🌱 Currently learning Javascript, debugging, and how to improve my overall skills as a front end developer through Scrimba.
 - 💞️ Next steps: I'm actively looking for junior FE developer positions, apprenticeships, and/or another paid internship. My hope is to continue learning and growing via  collaborating on functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
-- 📫 How to reach me:
+
+📫 How to reach me:
 - My Github: @jinlikegold
 - My LinkedIn: https://www.linkedin.com/in/jinlikegold/
 - My Portfolio: https://jincodes.com
