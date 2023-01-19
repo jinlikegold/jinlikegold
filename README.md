@@ -4,7 +4,6 @@
 - 💞️ Next steps: I'm actively looking for junior FE developer positions, apprenticeships, and/or another paid internship. My hope is to continue learning and growing via  collaborating on functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
 
 📫 How to reach me:
-- My Github: @jinlikegold
 - My LinkedIn: https://www.linkedin.com/in/jinlikegold/
 - My Portfolio: https://jincodes.com
 
