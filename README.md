@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - My Github: @jinlikegold
 - My LinkedIn: https://www.linkedin.com/in/jinlikegold/
-- My Portfolio (in progress, not yet updated with JS projects): https://jinlikegold.github.io/Portfolio/
+- My Portfolio: https://jincodes.com
 
 <!---
 jinlikegold/jinlikegold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
