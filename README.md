@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jin (he/him). I recently completed an internship in front end web development with a local organization, working within the Squarespace CMS. I like to think that Squarespace was my quirky colleague with a very different coding style, whose reusable components I learned to collaborate with and modify with my own additions. :)
-- 👀 Interested in front end development from a multipotentialite perspective (with a background in design, entrepreneurship, and systems thinking)
-- 🌱 Currently learning Javascript, debugging, and how to improve my overall skills as a front end developer through Scrimba.
-- 💞️ Next steps: I'm actively looking for junior FE developer positions, apprenticeships, and/or another paid internship. My hope is to continue learning and growing via  collaborating on functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
+- 👋 Hi, I’m Jin (he/him), creative entreprenuer turned frontend developer (background in design, social psych, and systems thinking). I've been self-studying for almost a year, and recently interned as a web developer with a local organization.
+- 🌱 Currently learning React, Javascript, and how to improve my overall skills as a frontend developer through Scrimba.
+- 💞️ Next steps: I'm actively seeking junior FE developer positions, apprenticeships, and/or a paid internship. My hope is to continue learning and growing via  collaborating on functional, accessible, and delightful websites and applications, ideally for organizations with a social mission.
 
 📫 How to reach me:
 - My LinkedIn: https://www.linkedin.com/in/jinlikegold/
